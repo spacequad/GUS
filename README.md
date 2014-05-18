@@ -1,5 +1,5 @@
 GUS Plugin for glFusion
-Version: 2.1.8
+Version: 2.1.9
 
 For the latest documentation, please see
 
